@@ -1,9 +1,12 @@
 # MoviesApp
 Movies application that displays information of soon to play or playing movies in Cinestar and allows CRUD operations on them.
+Default login credentials:
+- username: admin
+- password: admin
 
 ## Short description
 - Built in java 8 and uses Swing for GUI purposes.
-- Uses rss parser to parse following link [CinestarRSS](https://www.blitz-cinestar.hr/rss.aspx). Rss data might be broken sometimes but that's due to rss not having a set rules for data they provide.
+- Uses rss parser to parse following link: [CinestarRSS](https://www.blitz-cinestar.hr/rss.aspx). Rss data might be broken sometimes but that's due to rss not having a set rules for data they provide.
 - Project consists of 2 main views, a view for admins that take care of the application and users, and view for basic users to see movies info.
 - Uses JAXB for saving movies in XML file
 
