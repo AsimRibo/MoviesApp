@@ -4,6 +4,8 @@ Default login credentials:
 - username: admin
 - password: admin
 
+UPDATE: rss feed is no longer available :(
+
 ## Short description
 - Built in java 8 and uses Swing for GUI purposes.
 - Uses rss parser to parse following link: [CinestarRSS](https://www.blitz-cinestar.hr/rss.aspx). Rss data might be broken sometimes but that's due to rss not having a set rules for data they provide.
